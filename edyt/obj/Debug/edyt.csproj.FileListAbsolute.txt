@@ -1,0 +1,10 @@
+C:\projekty\edyt\edyt\bin\Debug\edyt.exe.config
+C:\projekty\edyt\edyt\bin\Debug\edyt.exe
+C:\projekty\edyt\edyt\bin\Debug\edyt.pdb
+C:\projekty\edyt\edyt\obj\Debug\edyt.csprojAssemblyReference.cache
+C:\projekty\edyt\edyt\obj\Debug\edyt.Form1.resources
+C:\projekty\edyt\edyt\obj\Debug\edyt.Properties.Resources.resources
+C:\projekty\edyt\edyt\obj\Debug\edyt.csproj.GenerateResource.cache
+C:\projekty\edyt\edyt\obj\Debug\edyt.csproj.CoreCompileInputs.cache
+C:\projekty\edyt\edyt\obj\Debug\edyt.exe
+C:\projekty\edyt\edyt\obj\Debug\edyt.pdb
